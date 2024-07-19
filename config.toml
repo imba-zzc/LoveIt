@@ -1,3 +1,6 @@
+# 显示中文
+hasCJKLanguage = true
+
 [module]
   [module.hugoVersion]
     extended = true
@@ -27,8 +30,6 @@
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
-  # 显示中文
-  hasCJKLanguage = true
 
   # Header config
   # 页面头部导航栏配置
